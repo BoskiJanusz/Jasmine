@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jasmine", "Jasmine\Jasmine.csproj", "{A06121DD-E3D3-4907-B04F-89C215F3B676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A06121DD-E3D3-4907-B04F-89C215F3B676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06121DD-E3D3-4907-B04F-89C215F3B676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06121DD-E3D3-4907-B04F-89C215F3B676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06121DD-E3D3-4907-B04F-89C215F3B676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AC40D6C-7DC0-45C9-8B66-FA52576C5611}
+	EndGlobalSection
+EndGlobal
